@@ -1,4 +1,4 @@
 # Hello-World
-The Start/
+The Start
 
 This is my first github repository. 
